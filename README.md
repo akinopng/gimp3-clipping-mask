@@ -1,6 +1,6 @@
 # GIMP Clipping Mask
 
-A Photoshop-style clipping mask plugin for **GIMP 3.x**.
+A Krita-style clipping mask plugin for **GIMP 3.x**.
 
 ## Usage
 
